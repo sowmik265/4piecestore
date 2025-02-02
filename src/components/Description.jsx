@@ -1,5 +1,5 @@
 import React, { useState } from "react"; // Added useState to handle activeImage
-import { images } from "../../utils/slidersData";
+import { images } from "../utils/slidersData";
 import { motion } from "framer-motion";
 import Image from "next/image";
 

@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
-import { images } from "../../utils/slidersData";
+import { images } from "../utils/slidersData";
 import Description from "./Description";
 
 const Slider = () => {
